@@ -1,0 +1,7 @@
+AT
+AT+CMGF=1
+AT+CMGW="+85291234567"
+> A simple demo of SMS text messaging.
++CMGW: 1
+AT+CMSS=1
++CMSS: 20

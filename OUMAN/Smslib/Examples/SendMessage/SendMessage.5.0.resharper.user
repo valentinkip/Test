@@ -1,0 +1,35 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="RequiredBuildEventImportance">0</setting>
+    </integer>
+    <boolean>
+      <setting name="AutoShowBuildResults">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseMsbuildSolutionBuilder">False</setting>
+      <setting name="UseMsbuildSolutionBuilderConsentDisplayed.07">True</setting>
+      <setting name="UseSolBuilderDuoStatusBarIndicator">True</setting>
+      <setting name="UseSolBuilderDuoView_tmp">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FB4D28D4-9981-42AE-BFF7-EF4C8CB11863/f:SendMessage.cs" caret="2863" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FB4D28D4-9981-42AE-BFF7-EF4C8CB11863/f:SendMessage.cs" caret="2863" fromTop="28" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

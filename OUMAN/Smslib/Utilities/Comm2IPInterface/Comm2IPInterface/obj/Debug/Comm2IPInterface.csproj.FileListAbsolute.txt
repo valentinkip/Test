@@ -1,0 +1,6 @@
+C:\User\smslib\utilities\trunk\windows\Comm2IPInterface\Comm2IPInterface\bin\Debug\Comm2IPInterface.exe
+C:\User\smslib\utilities\trunk\windows\Comm2IPInterface\Comm2IPInterface\bin\Debug\Comm2IPInterface.pdb
+C:\User\smslib\utilities\trunk\windows\Comm2IPInterface\Comm2IPInterface\bin\Debug\Comm2IP.dll
+C:\User\smslib\utilities\trunk\windows\Comm2IPInterface\Comm2IPInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\User\smslib\utilities\trunk\windows\Comm2IPInterface\Comm2IPInterface\obj\Debug\Comm2IPInterface.exe
+C:\User\smslib\utilities\trunk\windows\Comm2IPInterface\Comm2IPInterface\obj\Debug\Comm2IPInterface.pdb

@@ -1,0 +1,13 @@
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\SendMessage.exe
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\SendMessage.pdb
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\Comm2IP.dll
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\IKVM.Runtime.dll
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\bin\Debug\smslib-3.4.5.dll
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\obj\Debug\SendMessage.exe
+C:\WORK\OUMAN\Smslib\Examples\SendMessage\SendMessage\obj\Debug\SendMessage.pdb

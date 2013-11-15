@@ -1,0 +1,13 @@
+C:\WORK\OUMAN\SMS\SMS\bin\Debug\SMS.exe
+C:\WORK\OUMAN\SMS\SMS\bin\Debug\SMS.pdb
+C:\WORK\OUMAN\SMS\SMS\bin\Debug\GSMCommShared.dll
+C:\WORK\OUMAN\SMS\SMS\bin\Debug\RS232.dll
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\SMS.Delete.resources
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\SMS.frmConnection.resources
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\SMS.Receive.resources
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\SMS.Send.resources
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\SMS.Form1.resources
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\SMS.exe
+C:\WORK\OUMAN\SMS\SMS\obj\Debug\SMS.pdb
